@@ -1,3 +1,0 @@
-function viewContent(){
-    window.print();
-}
